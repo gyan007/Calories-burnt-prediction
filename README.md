@@ -1,7 +1,5 @@
 # Calories-burnt-prediction
 
-# Calories Burnt Prediction
-
 ## 📚 Project Overview
 
 This project aims to predict the number of calories burnt during physical exercises using various physiological and activity-related factors. By leveraging machine learning models, the project estimates calorie expenditure, helping individuals and fitness enthusiasts monitor and optimize their workout routines.
